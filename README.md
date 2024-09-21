@@ -14,37 +14,37 @@ Important Note: This project is part of my internship at Cehpoint and the source
 
 <div> 
 <div align="center">
-    <img src="img/flutter_01.png" width="200" alt="Screenshot"/>
-    <img src="img/flutter_03.png" width="200" alt="Screenshot"/>
-    <img src="img/flutter_04.png" width="200" alt="Screenshot"/>
-    <img src="img/flutter_05.png" width="200" alt="Screenshot"/>
+    <img src="media/flutter_01.png" width="200" alt="Screenshot"/>
+    <img src="media/flutter_03.png" width="200" alt="Screenshot"/>
+    <img src="media/flutter_04.png" width="200" alt="Screenshot"/>
+    <img src="media/flutter_05.png" width="200" alt="Screenshot"/>
 
 </div>
 <div align="center">
-    <img src="img/flutter_06.png" width="200" alt="Screenshot"/>
-    <img src="img/flutter_07.png" width="200" alt="Screenshot"/>
-    <img src="img/flutter_08.png" width="200" alt="Screenshot"/>
-    <img src="img/flutter_09.png" width="200" alt="Screenshot"/>
+    <img src="media/flutter_06.png" width="200" alt="Screenshot"/>
+    <img src="media/flutter_07.png" width="200" alt="Screenshot"/>
+    <img src="media/flutter_08.png" width="200" alt="Screenshot"/>
+    <img src="media/flutter_09.png" width="200" alt="Screenshot"/>
 
 </div>
 <div align="center">
-    <img src="img/flutter_11.png" width="200" alt="Screenshot"/>
-    <img src="img/flutter_12.png" width="200" alt="Screenshot"/>
-    <img src="img/flutter_13.png" width="200" alt="Screenshot"/>
-    <img src="img/flutter_14.png" width="200" alt="Screenshot"/>
+    <img src="media/flutter_11.png" width="200" alt="Screenshot"/>
+    <img src="media/flutter_12.png" width="200" alt="Screenshot"/>
+    <img src="media/flutter_13.png" width="200" alt="Screenshot"/>
+    <img src="media/flutter_14.png" width="200" alt="Screenshot"/>
 
 <div align="center">
-    <img src="img/flutter_15.png" width="200" alt="Screenshot"/>
-    <img src="img/flutter_16.png" width="200" alt="Screenshot"/>
-    <img src="img/flutter_17.png" width="200" alt="Screenshot"/>
-    <img src="img/flutter_18.png" width="200" alt="Screenshot"/>
+    <img src="media/flutter_15.png" width="200" alt="Screenshot"/>
+    <img src="media/flutter_16.png" width="200" alt="Screenshot"/>
+    <img src="media/flutter_17.png" width="200" alt="Screenshot"/>
+    <img src="media/flutter_18.png" width="200" alt="Screenshot"/>
 </div>
 
 <div align="center">
-    <img src="img/flutter_20.png" width="200" alt="Screenshot"/>
-    <img src="img/flutter_21.png" width="200" alt="Screenshot"/>
-    <img src="img/flutter_22.png" width="200" alt="Screenshot"/>
-    <img src="img/flutter_23.png" width="200" alt="Screenshot"/>
+    <img src="media/flutter_20.png" width="200" alt="Screenshot"/>
+    <img src="media/flutter_21.png" width="200" alt="Screenshot"/>
+    <img src="media/flutter_22.png" width="200" alt="Screenshot"/>
+    <img src="media/flutter_23.png" width="200" alt="Screenshot"/>
 </div>
 </div>
 
