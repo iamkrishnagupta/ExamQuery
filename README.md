@@ -111,6 +111,6 @@ https://github.com/user-attachments/assets/bbe12810-5f31-4277-9cba-da0baacb567b
 ## License
 
 This project is the property of Cehpoint and is subject to their terms and conditions.
+Thank you!
 
-
-### Thank you!
+### Say [Hello](https://www.linkedin.com/in/iamkrishnagupta) to me :)
