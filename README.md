@@ -8,7 +8,8 @@ Important Note: This project is part of my internship at Cehpoint and the source
 
 ## Demo Video
 
-https://github.com/user-attachments/assets/d6692bf0-ac27-4f7e-bb3b-fc9912a7c93f
+https://github.com/user-attachments/assets/bbe12810-5f31-4277-9cba-da0baacb567b
+
 
 ## Screenshots
 
