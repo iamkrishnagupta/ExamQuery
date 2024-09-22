@@ -9,10 +9,10 @@ Important Note: This project is part of my internship at Cehpoint and the source
 ## Demo Video
 
 <div align="center">
-  <video width="640" height="360" controls>
-    <source src="media/examquery_demo.mp4" type="video/mp4">
-    Sorry, we're having problem loading the video.
-  </video>
+  <video width="320" height="240" controls>
+  <source src="media/examquery_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 </div>
 
 ## Screenshots
