@@ -8,7 +8,9 @@ Important Note: This project is part of my internship at Cehpoint and the source
 
 ## Demo Video
 
-https://github.com/iamkrishnagupta/examquery/blob/main/media/demo.mp4
+
+https://github.com/user-attachments/assets/d6692bf0-ac27-4f7e-bb3b-fc9912a7c93f
+
 
 ## Screenshots
 
