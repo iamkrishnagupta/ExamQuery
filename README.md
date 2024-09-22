@@ -1,6 +1,6 @@
 # ExamQuery
 
-ExamQuery is an AI-driven competitive exam preparation app (MVP) built using Flutter, Dart, Firebase, OpenAI API, and GetX.
+ExamQuery is an AI-driven competitive exam preparation app (MVP) built using Flutter, Dart, Firebase, OpenAI API, and GetX state management.
 
 ## Code Availability
 
@@ -109,7 +109,8 @@ https://github.com/user-attachments/assets/bbe12810-5f31-4277-9cba-da0baacb567b
 
 
 ## License
+
 This project is the property of Cehpoint and is subject to their terms and conditions.
 
 
-## Thank you!
+### Thank you!
