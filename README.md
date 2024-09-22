@@ -2,8 +2,6 @@
 
 An AI-driven competitive exam preparation app MVP built using Flutter, Dart, Firebase, OpenAI, and GetX.
 
-- (Currently supports UPSC exam)
-
 ## Code Availability
 
 Important Note: This project is part of my internship at Cehpoint and the source code is proprietary. As per the organization's policies, the code is not available for public sharing. However, the project's demo video, screenshots, and features are outlined below.
