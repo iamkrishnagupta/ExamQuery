@@ -8,9 +8,7 @@ Important Note: This project is part of my internship at Cehpoint and the source
 
 ## Demo Video
 
-<div align = "center"> 
 https://github.com/user-attachments/assets/d6692bf0-ac27-4f7e-bb3b-fc9912a7c93f
-</div> 
 
 ## Screenshots
 
