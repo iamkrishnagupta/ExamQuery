@@ -10,7 +10,7 @@ Important Note: This project is part of my internship at Cehpoint and the source
 
 <div align="center">
   <video width="320" height="240" controls>
-  <source src="media/examquery_demo.mp4" type="video/mp4">
+  <source src="media/demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 </div>
