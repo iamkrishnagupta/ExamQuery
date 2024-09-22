@@ -1,10 +1,10 @@
 # ExamQuery
 
-An AI-driven competitive exam preparation app MVP built using Flutter, Dart, Firebase, OpenAI, and GetX.
+ExamQuery is an AI-driven competitive exam preparation app (MVP) built using Flutter, Dart, Firebase, OpenAI API, and GetX.
 
 ## Code Availability
 
-Important Note: This project is part of my internship at Cehpoint and the source code is proprietary. As per the organization's policies, the code is not available for public sharing. However, the project's demo video, screenshots, and features are outlined below.
+Important Note: This project is part of my internship at Cehpoint and the source code is proprietary. As per the organization's policies, the code is not available for public sharing.  However, this README provides an overview of the project's features, along with a demo video and screenshots.
 
 ## Demo Video
 
@@ -62,6 +62,8 @@ https://github.com/user-attachments/assets/bbe12810-5f31-4277-9cba-da0baacb567b
 - Take dynamic mock tests for various exams, including the UPSC Civil Services Prelims
 - Each mock test includes 100 questions, 200 marks, and a 120-minute time limit
 - Tests are generated dynamically, ensuring a unique experience every time
+- Pause and resume tests according to convenience settings
+- Get detailed report of the results
 
 ### Personalized Study Plans
 
@@ -91,6 +93,7 @@ https://github.com/user-attachments/assets/bbe12810-5f31-4277-9cba-da0baacb567b
 ### Essay Evaluation
 
 - Submit essays for evaluation
+- File uploads for evaluation
 - Receive detailed feedback and results
 
 ### Mind Maps
@@ -103,3 +106,10 @@ https://github.com/user-attachments/assets/bbe12810-5f31-4277-9cba-da0baacb567b
 - Add and manage questions for mock tests
 - Create custom mock tests
 - Manage user data and application settings
+
+
+## License
+This project is the property of Cehpoint and is subject to their terms and conditions.
+
+
+## Thank you!
